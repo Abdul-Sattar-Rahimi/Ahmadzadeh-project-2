@@ -8,6 +8,9 @@
 
  
 # منابع پروژه
+- در پروژه دوم سعی کردم تمام چیز هایی که از پروژه اولم یاد گرفتم رو به کار ببرم و از ویدیو های آموزشی کمتری استفاده کنم
+
+
 <div class="container">
     <img class="small-image" src="https://imgurl.ir/uploads/z70109_New_Project_6.png" alt="Image 1">
     <a class="text-link" href="https://github.com/mohammadbtc100" target="_blank">هدایت به اکانت منبع</a>
